@@ -8,22 +8,29 @@ https://open-assistant.io/
 https://github.com/LAION-AI/Open-Assistant
 
 Datasets:
-(Name + Description + HF links )
+
+(Table with names + Descriptions + HF links )
 
 Chat models:
-(Name + Description + HF links + colab)
+
+(Table with names + Descriptions + HF links + colabs )
 
 Retrieval systems:
-(Name + Description + HF links + colab)
+
+(Table with names + Descriptions + HF links + colabs )
 
 Safety models:
-(Name + Description + HF links + colab)
+
+(Table with names + Descriptions + HF links + colabs )
 
 Fact checking systems:
-(Name + Description + HF links + colab)
+
+(Table with names + Descriptions + HF links + colabs )
 
 Data augmentation systems:
-(Name + Description + HF links + colab)
+
+(Table with names + Descriptions + HF links + colabs )
 
 Data generation systems:
-(Name + Description + HF links + colab)
+
+(Table with names + Descriptions + HF links + colabs )
