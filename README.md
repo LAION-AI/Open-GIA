@@ -3,6 +3,8 @@ Open-Chat is an ecosystem that provides open source chat models, datasets, data 
 
 Affiliated projects:
 
+https://open-assistant.io/
+https://github.com/LAION-AI/Open-Assistant
 
 Datasets:
 (Name + Description + HF links )
