@@ -1,5 +1,6 @@
 # Open-Chat
 Open-Chat is an ecosystem that provides open source chat models, datasets, data augmentation scripts, retrieval & fact checking systems & safety tools for ChatGPT-like systems.
+(The name "Open-Chat" is a working title & might get changed in the next days. If the people in LAION cannot agree on a better title within the next days, the probabitlity they they will, will decrease exponentially :D )
 
 ## Affiliated projects:
 
