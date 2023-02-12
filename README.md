@@ -1,14 +1,14 @@
 # Open-Chat
 Open-Chat is an ecosystem that provides open source chat models, datasets, data augmentation scripts, retrieval & fact checking systems & safety tools for ChatGPT-like systems.
 
-##Affiliated projects:
+## Affiliated projects:
 
 https://open-assistant.io/
 
 https://github.com/LAION-AI/Open-Assistant
 
 
-##Datasets:
+## Datasets:
 
 (Table with names + Descriptions + HF links )
 | Name | Description | Links |
@@ -18,7 +18,7 @@ https://github.com/LAION-AI/Open-Assistant
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 
-##Chat models:
+## Chat models:
 
 (Table with names + Descriptions + HF links + colabs )
 | Name | Description | Links |
@@ -29,7 +29,7 @@ https://github.com/LAION-AI/Open-Assistant
 
 
 
-##Retrieval systems:
+## Retrieval systems:
 
 (Table with names + Descriptions + HF links + colabs )
 | Name | Description | Links |
@@ -40,7 +40,7 @@ https://github.com/LAION-AI/Open-Assistant
 
 
 
-##Safety models:
+## Safety models:
 
 (Table with names + Descriptions + HF links + colabs )
 | Name | Description | Links |
@@ -51,7 +51,7 @@ https://github.com/LAION-AI/Open-Assistant
 
 
 
-##Fact checking systems:
+## Fact checking systems:
 
 (Table with names + Descriptions + HF links + colabs )
 | Name | Description | Links |
@@ -62,7 +62,7 @@ https://github.com/LAION-AI/Open-Assistant
 
 
 
-##Data augmentation systems:
+## Data augmentation systems:
 
 (Table with names + Descriptions + HF links + colabs )
 | Name | Description | Links |
@@ -73,7 +73,7 @@ https://github.com/LAION-AI/Open-Assistant
 
 
 
-##Data generation systems:
+## Data generation systems:
 
 (Table with names + Descriptions + HF links + colabs )
 | Name | Description | Links |
