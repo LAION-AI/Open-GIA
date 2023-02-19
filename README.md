@@ -14,7 +14,7 @@ Our vision is that collaborative research on such open systems will create **use
 
 We'd like to think that as much as bread was foundational for giving people food, standing in the beginning of human civilization, OGIA components will be foundational for giving people new kind of resource - food for the new forms of creativity and inspiration based on collected wisdom and also errors we human have gathered so far, that eventually will mark next stage of developing our civilization into a better environment for everyone, increasing well-fare and decreasing suffering.
 
-For references on the word origin, see [here](https://de.wiktionary.org/wiki/ogia), [here](https://en.wiktionary.org/wiki/ogi#Basque), and [here](http://www.omegawiki.org/Expression:ogia). For pronounciation (/oɡia/, [o̞.ɣ̞ia]), listen to examples [here](http://ilovelanguages.org/basque_lesson17.php) and [here](https://basque.english-dictionary.help/english-to-basque-meaning-bread)
+For references on the word origin, see [here](https://de.wiktionary.org/wiki/ogia), [here](https://en.wiktionary.org/wiki/ogi#Basque), and [here](http://www.omegawiki.org/Expression:ogia). For pronounciation (/oɡia/, [o̞.ɣ̞ia]), listen to examples [here](https://forvo.com/word/ogia/) and [here](http://ilovelanguages.org/basque_lesson17.php)
 
 ## Affiliated projects:
 
